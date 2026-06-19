@@ -32,7 +32,7 @@
 📈 Mordu des <b>marchés financiers</b> — trading algo en méthodo <b>SMC / ICT</b> &amp; indicateurs <b>Pine Script</b> maison<br>
 📸 <b>Photographe &amp; astrophotographe</b> : je traque la <b>Voie lactée</b> au-dessus du <b>Mercantour</b> 🌌<br>
 🐧 Team <b>Linux</b>, <b>open-source</b> &amp; solutions <b>self-hosted</b><br>
-🏔️ Loin des écrans : <b>rando</b>, <b>snowboard</b> &amp; <b>moto</b>
+🏔️ Loin des écrans : <b>Escalade</b>, <b>rando</b>, <b>snowboard</b> &amp; <b>moto</b>
 </p>
 
 <!-- ====================== STACK ====================== -->
