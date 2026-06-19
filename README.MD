@@ -108,6 +108,7 @@
   2) Lance le workflow une fois (onglet Actions > Run workflow)
   3) Décommente le bloc ci-dessous
   ----------------------------------------------------------------
+-->
 <h2 align="center">🐍 Contributions</h2>
 <p align="center">
   <picture>
@@ -115,7 +116,6 @@
     <img src="https://raw.githubusercontent.com/Aytirix/Aytirix/output/github-snake.svg" width="95%" alt="snake" />
   </picture>
 </p>
--->
 
 <!-- ====================== LIENS ====================== -->
 <h2 align="center">🌐 Me retrouver</h2>
