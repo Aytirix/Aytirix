@@ -94,13 +94,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aytirix&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%" alt="graphe d'activité" />
 </p>
 
-<!-- ====================== TROPHÉES ====================== -->
-<h2 align="center">🏆 Trophées</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aytirix&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" alt="trophées" />
-</p>
-
 <!--
   ===================== BONUS : SERPENT ANIMÉ =====================
   Pour activer le serpent qui "mange" ton graphe de contributions :
